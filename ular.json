@@ -2,26 +2,26 @@
   {
     "nama": "Ular Gadung",
     "namaLatin": "Ahaetulla prasina",
-    "imageId": "ulargadung"
+    "imageId": "Ular Gadung"
   },
   {
     "nama": "Ular Welang",
     "namaLatin": "Bungarus fasciatus",
-    "imageId": "ularwelang"
+    "imageId": "Ular Welang"
   },
   {
     "nama": "Ular Sanca",
     "namaLatin": "Malayopython reticulatus",
-    "imageId": "ularsanca"
+    "imageId": "Ular Sanca"
   },
   {
     "nama": "Ular Kobra",
     "namaLatin": "Naja sputatrix",
-    "imageId": "ularkobra"
+    "imageId": "Ular Kobra"
   },
   {
     "nama": "Ular Weling",
     "namaLatin": "Bungarus candidus",
-    "imageId": "ularweling"
+    "imageId": "Ular Weling"
   }
 ]
